@@ -2,4 +2,6 @@ Save Format v3.0(19990112)
 @begin Targets
  0 "qrcodes.pbt";
 @end;
+DefaultTarget "qrcodes.pbt";
 DefaultExportEncode "UTF-8";
+DefaultRemoteTarget "qrcodes.pbt";
